@@ -1,0 +1,28 @@
+/*
+Theme Name: Glucosamine Experts
+Theme URI: [https://www.wildcat-digital.com/](https://www.wildcat-digital.com/)
+Description: Glucosamine Experts Theme
+Author: wildcat-digital
+Author URI: [https://www.wildcat-digital.com](https://www.wildcat-digital.com/)
+Template: Divi
+Version: 1.0.0
+*/
+
+
+/*** Responsive Styles Standard Desktop  ***/
+@media all and (min-width: 981px) {}
+
+/*** Responsive Styles Tablet And Below ***/
+@media all and (max-width: 980px) {}
+
+/*** Responsive Styles Tablet Only ***/
+@media all and (min-width: 768px) and (max-width: 980px) {}
+
+/*** Responsive Styles Smartphone Only ***/
+@media all and (max-width: 767px) {
+
+    /* helpers */
+    .mb-2 {
+        margin-bottom: 2em !important;
+    }
+}
