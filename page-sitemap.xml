@@ -120,31 +120,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/the-tsi-challenge/</loc>
-		<lastmod>2022-06-17T02:44:24+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2022/05/TSI-Challenge-logo_complete.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2022/05/OptiTab-Colour@3x-100.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2021/06/Clipboard-e1624393897283.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2022/05/Sample-Diagram-Updated.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2022/05/GettyImages-485206447-scaled-1.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2022/05/quality-issues-e1624396346203-1.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2022/05/Graph-Icon-300x300-1.png</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/choose-tsi-manufacturing/</loc>
 		<lastmod>2022-06-18T01:06:58+00:00</lastmod>
 		<image:image>
@@ -189,6 +164,31 @@
 		<lastmod>2022-07-14T18:50:34+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2022/05/joao-tzanno-E3AQ09IW6oA-unsplash-scaled-e1626989718552.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/the-tsi-challenge/</loc>
+		<lastmod>2022-07-14T20:23:09+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/05/TSI-Challenge-logo_complete.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/05/OptiTab-Colour@3x-100.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2021/06/Clipboard-e1624393897283.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/05/Sample-Diagram-Updated.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/05/GettyImages-485206447-scaled-1.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/05/quality-issues-e1624396346203-1.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/05/Graph-Icon-300x300-1.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
