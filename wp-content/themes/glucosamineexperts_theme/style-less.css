@@ -462,3 +462,12 @@ sup {
 .hbspt-form .hs_recaptcha {
     padding: 1rem 0.2rem;
 }
+
+.aa-dropdown-menu{
+    min-width:200px;
+    font-family: 'Nexa Regular',Helvetica,Arial,Lucida,sans-serif;
+    font-size:18px;
+    -webkit-box-shadow: 0px 0px 35px 0px rgba(122,122,122,1);
+    -moz-box-shadow: 0px 0px 35px 0px rgba(122,122,122,1);
+    box-shadow: 0px 0px 35px 0px rgba(122,122,122,1);
+}
