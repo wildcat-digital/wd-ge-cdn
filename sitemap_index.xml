@@ -2,18 +2,18 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<sitemap>
 		<loc>/post-sitemap.xml</loc>
-		<lastmod>2022-07-19T23:20:13+00:00</lastmod>
+		<lastmod>2022-07-20T21:11:24+00:00</lastmod>
 	</sitemap>
 	<sitemap>
 		<loc>/page-sitemap.xml</loc>
-		<lastmod>2022-07-20T04:43:06+00:00</lastmod>
+		<lastmod>2022-07-20T20:57:06+00:00</lastmod>
 	</sitemap>
 	<sitemap>
 		<loc>/project-sitemap.xml</loc>
 	</sitemap>
 	<sitemap>
 		<loc>/category-sitemap.xml</loc>
-		<lastmod>2022-07-19T23:20:13+00:00</lastmod>
+		<lastmod>2022-07-20T21:11:24+00:00</lastmod>
 	</sitemap>
 	<sitemap>
 		<loc>/post_tag-sitemap.xml</loc>
