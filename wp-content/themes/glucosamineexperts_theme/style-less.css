@@ -53,6 +53,10 @@ h6 {
 
 
 */
+.uppercase{
+    text-transform: uppercase !important;
+
+}
 .shadow {
     text-shadow: 0.01em 0.09em 0.09em rgba(0, 0, 0, 0.2);
 }
@@ -296,7 +300,29 @@ sup {
 .ge-italic {
     font-style: italic !important;
 }
+.ge-download-icon{
+    width:110px;
+    padding: 1em 0;
+    &:hover {
+        transform: scale(1.1);
+    }
+}
+.ge-download-allowed{
+    color: @tsi-primary;
+    cursor: pointer;
+}
+.ge-download-not-allowed{
+    color: @tsi-gray;
+    cursor: not-allowed;
 
+}
+.cursor-pointer{
+    cursor: pointer;
+}
+.cursor-not-allowed{
+    cursor: not-allowed;
+
+}
 .ge-text-xl {
     font-size: 1.6rem !important;
     line-height: 1.5rem !important;
@@ -410,6 +436,20 @@ sup {
 
 
 // FORM
+
+form.nosubmit {
+    border: none;
+    padding: 0;
+  }
+  
+  input.nosubmit {
+    width: 260px;
+    border: 1px solid #555;
+    display: block;
+    padding: 9px 4px 9px 40px;
+    background: transparent url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' class='bi bi-search' viewBox='0 0 16 16'%3E%3Cpath d='M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001c.03.04.062.078.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1.007 1.007 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0z'%3E%3C/path%3E%3C/svg%3E") no-repeat 13px center;
+  }
+
 .hbspt-form fieldset {
     border: 0;
     padding: 0;
@@ -417,7 +457,7 @@ sup {
     max-width: 100% !important;
 }
 
-.hbspt-form ul {
+.hbspt-form ul{
     list-style-type: none !important;
 }
 
