@@ -26,31 +26,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/home-backup/</loc>
-		<lastmod>2022-05-05T20:42:56+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2020/06/Infographic-224x300.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2020/06/Infographic.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2022/05/leaves.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2020/06/FDA-logo.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2020/06/GRAS-logo.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2020/06/NO-GMO-logo.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2020/06/CGMP-logo.png</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/one-example/</loc>
 		<lastmod>2022-05-06T20:06:25+00:00</lastmod>
 		<image:image>
@@ -176,10 +151,6 @@
 		<image:image>
 			<image:loc>/wp-content/uploads/2022/05/Graph-Icon-300x300-1.png</image:loc>
 		</image:image>
-	</url>
-	<url>
-		<loc>/blog/</loc>
-		<lastmod>2022-07-19T21:48:00+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/contact-us/</loc>
