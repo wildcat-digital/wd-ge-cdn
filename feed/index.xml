@@ -12,7 +12,7 @@
 	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>The Glucosamine Experts™</description>
-	<lastBuildDate>Wed, 20 Jul 2022 21:11:24 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 21 Jul 2022 03:41:04 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -67,14 +67,14 @@ const file = '/wp-content/uploads/2022/07/Efficacy-Study-TSI.pdf';
 linkDiv = document.getElementById("download-link");
 
 if (file) {
-    linkDiv.innerHTML = `<div style="padding:1em 0;">
+    linkDiv.innerHTML = `<div class="lib-download-icon-wrapper">
     <a href="${file}" class="ge-bold" target="_blank"><svg xmlns="http://www.w3.org/2000/svg" class="ge-download-icon ge-download-allowed" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
     <path stroke-linecap="round" stroke-linejoin="round" d="M12 10v6m0 0l-3-3m3 3l3-3m2 8H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z" />
     </svg></a">
-    <p><a href="${file}" class="ge-bold uppercase ge-text-gray" target="_blank">Please click here to open/download the file.</a></p>
+    <p><a href="${file}" class="ge-bold uppercase ge-text-gray" target="_blank">Please click here to open/download the file</a></p>
     </div>`;
 } else {
-    linkDiv.innerHTML = `<div style="padding:1em 0;">
+    linkDiv.innerHTML = `<div class="lib-download-icon-wrapper">
     <h2>Seems like something is not right</h2>
     <svg xmlns="http://www.w3.org/2000/svg" class="ge-download-icon cursor-not-allowed ge-download-not-allowed" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
     <path stroke-linecap="round" stroke-linejoin="round" d="M10 14l2-2m0 0l2-2m-2 2l-2-2m2 2l2 2m7-2a9 9 0 11-18 0 9 9 0 0118 0z" />
@@ -98,39 +98,34 @@ if (file) {
 				<category><![CDATA[Library]]></category>
 		<guid isPermaLink="false">/?p=2980</guid>
 
-					<description><![CDATA[<p>Glucosamine is a high valued, naturally occurring amino sugar, categorized as a nonvitamin and nonmineral dietarysupplement, with demonstrated efficacy for arthritis, neurological disorders, and inflammatory health ailments. Becauseof its diverse industrial applications in food, pharma, and cosmetics, the market demand is expected to exceed 40,000metric tons in 2022. Fill the form to download the file.</p>
+					<description><![CDATA[<p>Glucosamine is a high valued, naturally occurring amino sugar, categorized as a nonvitamin and nonmineral dietary supplement, with demonstrated efficacy for arthritis, neurological disorders, and inflammatory health ailments. Because of its diverse industrial applications in food, pharma, and cosmetics, the market demand is expected to exceed 40,000 metric tons in 2022. Fill the form to [&#8230;]</p>
 <p>The post <a rel="nofollow" href="/library/comprehensive-guide-to-global-clinical-research-of-glucosamine/">Comprehensive Guide to Global Clinical Research of Glucosamine</a> appeared first on <a rel="nofollow" href="/">The Glucosamine Experts™</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
-<div class="wp-container-3 wp-block-columns">
-<div class="wp-container-1 wp-block-column">
-<p class="has-medium-font-size">Glucosamine is a high valued, naturally occurring amino sugar, categorized as a nonvitamin and nonmineral dietary<br>supplement, with demonstrated efficacy for arthritis, neurological disorders, and inflammatory health ailments. Because<br>of its diverse industrial applications in food, pharma, and cosmetics, the market demand is expected to exceed 40,000<br>metric tons in 2022.</p>
+<p>Glucosamine is a high valued, naturally occurring amino sugar, categorized as a nonvitamin and nonmineral dietary supplement, with demonstrated efficacy for arthritis, neurological disorders, and inflammatory health ailments. Because of its diverse industrial applications in food, pharma, and cosmetics, the market demand is expected to exceed 40,000 metric tons in 2022.</p>
 
 
 
 <p>Fill the form to download the file.</p>
-</div>
 
 
 
-<div class="wp-container-2 wp-block-column">
-<script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/v2.js"></script>
-<script>
-  hbspt.forms.create({
-css:"",
-    region: "na1",
-    portalId: "7930619",
-    formId: "f19cbd35-0a76-40d1-a07d-60ce1cc1d97a",
-   redirectUrl:"/thank-you-for-downloading?file=https%3A%2F%2Fuzunu-cdn-assets.s3.us-west-1.amazonaws.com%2Fglucosamine-experts%2Fknowledge-center-documents%2FResearchBreakdownonGlucosamine-June22.pdf",
-   locale: 'en',
-      translations: {
-        en: {
-          submitText: "Download File",
-          }}
-    });
-</script>
-</div>
-</div>
+
+    <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/v2.js"></script>
+    <script>
+    hbspt.forms.create({
+        css:"",
+        region: "na1",
+        portalId: "7930619",
+        formId: "f19cbd35-0a76-40d1-a07d-60ce1cc1d97a",
+        redirectUrl:"/thank-you-for-downloading?file=https%3A%2F%2Fuzunu-cdn-assets.s3.us-west-1.amazonaws.com%2Fglucosamine-experts%2Fknowledge-center-documents%2FResearchBreakdownonGlucosamine-June22.pdf",
+    locale: "en",
+        translations: {
+            en: {
+            submitText:"Download File",
+            }}
+        });
+    </script>
 <p>The post <a rel="nofollow" href="/library/comprehensive-guide-to-global-clinical-research-of-glucosamine/">Comprehensive Guide to Global Clinical Research of Glucosamine</a> appeared first on <a rel="nofollow" href="/">The Glucosamine Experts™</a>.</p>
 ]]></content:encoded>
 					
@@ -146,38 +141,34 @@ css:"",
 				<category><![CDATA[Library]]></category>
 		<guid isPermaLink="false">/?p=2951</guid>
 
-					<description><![CDATA[<p>Glucosamine sulfate tends to rebuild the damaged cartilage, thus restoring articular function in most chronic arthrosic patients. The long-term combined structure-modifying and symptom-modifying effects of glucosamine sulphate suggest that it could be a disease modifying agent in osteoarthritis</p>
+					<description><![CDATA[<p>Glucosamine sulfate tends to rebuild the damaged cartilage, thus restoring articular function in most chronic arthrosic patients.</p>
 <p>The post <a rel="nofollow" href="/library/complete-guide-to-the-history-and-applications-of-the-supplement-glucosamine/">Complete Guide to the History and Applications of the Supplement Glucosamine</a> appeared first on <a rel="nofollow" href="/">The Glucosamine Experts™</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
-<div class="wp-container-6 wp-block-columns">
-<div class="wp-container-4 wp-block-column">
 <p>Glucosamine sulfate tends to rebuild the damaged cartilage, thus restoring articular function in most chronic arthrosic patients.</p>
 
 
 
-<p>The long-term combined structure-modifying and symptom-modifying effects of glucosamine sulphate suggest that it could be a disease modifying agent in osteoarthritis</p>
-</div>
+
+    <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/v2.js"></script>
+    <script>
+    hbspt.forms.create({
+        css:"",
+        region: "na1",
+        portalId: "7930619",
+        formId: "f19cbd35-0a76-40d1-a07d-60ce1cc1d97a",
+        redirectUrl:"/thank-you-for-downloading?file=https%3A%2F%2Fuzunu-cdn-assets.s3.us-west-1.amazonaws.com%2Fglucosamine-experts%2Fknowledge-center-documents%2FGlucosamine%2BResearch%2BJune%2B2022.pdf",
+    locale: "en",
+        translations: {
+            en: {
+            submitText:"Create Download Link",
+            }}
+        });
+    </script>
 
 
 
-<div class="wp-container-5 wp-block-column">
-<script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/v2.js"></script>
-<script>
-  hbspt.forms.create({
-    region: "na1",
-    portalId: "7930619",
-    formId: "f19cbd35-0a76-40d1-a07d-60ce1cc1d97a",
-   redirectUrl:"/thank-you-for-downloading?file=https%3A%2F%2Fuzunu-cdn-assets.s3.us-west-1.amazonaws.com%2Fglucosamine-experts%2Fknowledge-center-documents%2FGlucosamine%2BResearch%2BJune%2B2022.pdf",
-   locale: 'en',
-      translations: {
-        en: {
-          submitText: "Download File",
-          }}
-    });
-</script>
-</div>
-</div>
+<p></p>
 <p>The post <a rel="nofollow" href="/library/complete-guide-to-the-history-and-applications-of-the-supplement-glucosamine/">Complete Guide to the History and Applications of the Supplement Glucosamine</a> appeared first on <a rel="nofollow" href="/">The Glucosamine Experts™</a>.</p>
 ]]></content:encoded>
 					
