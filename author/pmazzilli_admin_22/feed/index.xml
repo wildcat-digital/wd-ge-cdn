@@ -12,7 +12,7 @@
 	<atom:link href="/author/pmazzilli_admin_22/feed/" rel="self" type="application/rss+xml" />
 	<link>/author/pmazzilli_admin_22/</link>
 	<description>The Glucosamine Experts™</description>
-	<lastBuildDate>Thu, 21 Jul 2022 03:41:04 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 22 Jul 2022 22:16:03 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -48,11 +48,11 @@
 
 
 
-<p>Glucosamine sulfate has more clinical effectiveness studies than Glucosamine Hydrochloride. However. in 2006, the European Medicines Agency (EMA) published an Assessment Report on Glucomed625 mg glucosamine hydrochloride , which concluded that there was a favorable risk/benefit ratio for the glucosamine hydrochloride product, on the basis of submitted literature on glucosamine sulfate, as the formulations are not considered to be different in terms of safety or efficacy. Therefore, it can be considered that a precedent was set whereby clinical data for glucosamine sulfate are also applicable to the evaluation of glucosamine hydrochloride. (Bertin P. et al., 2014)</p>
+<p>Glucosamine sulfate has more clinical effectiveness studies than Glucosamine Hydrochloride. However, in 2006, the European Medicines Agency (EMA) published an Assessment Report on Glucomed 625 mg glucosamine hydrochloride , which concluded that there was a favorable risk/benefit ratio for the glucosamine hydrochloride product, on the basis of submitted literature on glucosamine sulfate, as the formulations are not considered to be different in terms of safety or efficacy. Therefore, it can be considered that a precedent was set whereby clinical data for glucosamine sulfate are also applicable to the evaluation of glucosamine hydrochloride. (Bertin P. et al., 2014)</p>
 
 
 
-<p>At present, more and more countries in the EU have updated the active ingredient of the marketed glucosamine sulfate &amp; glucosamine hydrochloride medicines to more scientific free-base glucosamine.</p>
+<p>At present, more and more countries in the EU have updated the active ingredient of the marketed glucosamine sulfate &amp; glucosamine hydrochloride supplements to more scientific free-base glucosamine.</p>
 
 
 
@@ -98,15 +98,15 @@ if (file) {
 				<category><![CDATA[Library]]></category>
 		<guid isPermaLink="false">/?p=2980</guid>
 
-					<description><![CDATA[<p>Glucosamine is a high valued, naturally occurring amino sugar, categorized as a nonvitamin and nonmineral dietary supplement, with demonstrated efficacy for arthritis, neurological disorders, and inflammatory health ailments. Because of its diverse industrial applications in food, pharma, and cosmetics, the market demand is expected to exceed 40,000 metric tons in 2022. Fill the form to [&#8230;]</p>
+					<description><![CDATA[<p>This is the definitive resource for glucosamine. The history of its development, testing, and use along with a comprehensive list of clinical studies conducted around the world. Glucosamine is widely used and trusted by people who suffer from joint pain or who want to provide relief to their pets, yet so little is understood about [&#8230;]</p>
 <p>The post <a rel="nofollow" href="/library/comprehensive-guide-to-global-clinical-research-of-glucosamine/">Comprehensive Guide to Global Clinical Research of Glucosamine</a> appeared first on <a rel="nofollow" href="/">The Glucosamine Experts™</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
-<p>Glucosamine is a high valued, naturally occurring amino sugar, categorized as a nonvitamin and nonmineral dietary supplement, with demonstrated efficacy for arthritis, neurological disorders, and inflammatory health ailments. Because of its diverse industrial applications in food, pharma, and cosmetics, the market demand is expected to exceed 40,000 metric tons in 2022.</p>
+<p>This is the definitive resource for glucosamine. The history of its development, testing, and use along with a comprehensive list of clinical studies conducted around the world. Glucosamine is widely used and trusted by people who suffer from joint pain or who want to provide relief to their pets, yet so little is understood about it. Objectively written by The Glucosamine Experts<sup>TM</sup>, it is the only resource you will ever need to understand this important supplement.</p>
 
 
 
-<p>Fill the form to download the file.</p>
+<p>Please fill out the form to access the file.</p>
 
 
 
@@ -122,7 +122,7 @@ if (file) {
     locale: "en",
         translations: {
             en: {
-            submitText:"Download File",
+            submitText:"Download Paper",
             }}
         });
     </script>
@@ -141,11 +141,15 @@ if (file) {
 				<category><![CDATA[Library]]></category>
 		<guid isPermaLink="false">/?p=2951</guid>
 
-					<description><![CDATA[<p>Glucosamine sulfate tends to rebuild the damaged cartilage, thus restoring articular function in most chronic arthrosic patients.</p>
+					<description><![CDATA[<p>Want to know how thoroughly glucosamine has been studied? Want to know what research has been conducted on glucosamine beyond joint pain? It’s all here. Even though glucosamine has been accepted and used for generations we are still conducting promising research into its benefits for gut and brain health as well as its anti-aging potential. [&#8230;]</p>
 <p>The post <a rel="nofollow" href="/library/complete-guide-to-the-history-and-applications-of-the-supplement-glucosamine/">Complete Guide to the History and Applications of the Supplement Glucosamine</a> appeared first on <a rel="nofollow" href="/">The Glucosamine Experts™</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
-<p>Glucosamine sulfate tends to rebuild the damaged cartilage, thus restoring articular function in most chronic arthrosic patients.</p>
+<p>Want to know how thoroughly glucosamine has been studied? Want to know what research has been conducted on glucosamine beyond joint pain? It’s all here. Even though glucosamine has been accepted and used for generations we are still conducting promising research into its benefits for gut and brain health as well as its anti-aging potential.</p>
+
+
+
+<p>Please fill out the form to access the file.</p>
 
 
 
@@ -161,7 +165,7 @@ if (file) {
     locale: "en",
         translations: {
             en: {
-            submitText:"Create Download Link",
+            submitText:"Download Paper",
             }}
         });
     </script>
